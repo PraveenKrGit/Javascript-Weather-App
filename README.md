@@ -1,9 +1,9 @@
 # Modern-Javascript-Weather-App
-###A Javascript Weather App with Modern Design.
+### A Javascript Weather App with Modern Design.
 
 The App uses API to fetch data from https://openweathermap.org/
 
-###The data fetched using API are:
+### The data fetched using API are:
 - Temperature
 - Location (City and Country)
 - Weather Description
