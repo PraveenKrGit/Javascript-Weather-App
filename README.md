@@ -9,4 +9,8 @@ The App uses API to fetch data from https://openweathermap.org/
 - Weather Description
 - Weather icon type
 
-![alt text](https://github.com/PraveenKrGit/Modern-UI-Weather-App/blob/a07a087da1ae72b3c53b4cba58b71585c18e7d17/weather/images/Screenshot.png)
+### Modern UI
+![alt text](https://github.com/PraveenKrGit/Javascript-Weather-App/blob/752663fe87a825ef9cc711733520e15ce396f661/weather/images/Screenshot1.png)
+
+### Black n White Modern UI
+![alt text](https://github.com/PraveenKrGit/Javascript-Weather-App/blob/752663fe87a825ef9cc711733520e15ce396f661/weather/images/Screenshot2.png)
