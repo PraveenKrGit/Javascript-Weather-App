@@ -1,0 +1,122 @@
+html{
+    background-color: #000000;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.container{
+    width: 300px;
+    background-color: rgb(0, 0, 0);
+    
+    margin: 0 auto;
+    border-radius: 30px;
+    padding-bottom: 40px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    top: 20%;
+    left: 20%;
+    
+    transform: translate(-4%, 42%);
+}
+
+.weather-container{
+    border-radius: 30px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    width: 300px;
+    height: auto;
+    background-color: rgb(0, 0, 0);
+}
+
+.location p{
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: -35px;
+    padding-left: 40px;
+    padding-top: 40px;
+    color: orange;
+    text-align: left;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+.temperature{
+    width: 300px;
+    display: block;
+    height : 60px;
+}
+
+.temperature p{
+    user-select: none;
+    padding: 0;
+    margin: 0px;
+    padding-left: 30px;
+    color: #ffffff;
+    font-size: 7em;
+    text-align: left;
+    cursor: pointer;
+}
+
+.temperature span{
+    color: #ffffff;
+    font-size: 0.5em;
+    font-weight: bolder;
+}
+
+.weather-icon{
+    width: 400px;
+    height: auto;
+    padding:0;
+    padding-top: 60px;
+    padding-left: 10px;
+    user-select: none;
+}
+
+.weather-icon img{
+    filter:invert(100);
+    margin: 0px auto;
+    margin-bottom: 0px;
+}
+
+.description p{
+    padding: 0;
+    margin: 0;
+    padding-left: 35px;
+    margin-top: -25px;
+    margin-bottom: 20px;
+    color: rgb(211, 211, 211);
+    text-align: left;
+    font-size: 1.2em;
+    user-select: none;
+    text-transform: uppercase;
+}
+
+.notification{
+    background-color: #000000;
+    display: none;
+}
+
+.notification p{
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    color: #b82e3c;
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer{
+    padding: 0px;
+    width:50%;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: -5px;
+    color: #525252;
+    padding-left: 130px;
+    text-align: right;
+}
